@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CalculoITBI</string>
+    <string name="calculo_do_itbi"><b>Cálculo do ITBI</b></string>
+    <string name="opcoes">No vampo Cidade digite o número correspondente à cidade do imóvel: \n 1- Belo Horizonte \n 2 -Contagem \n 3 -Nova Lima</string>
+</resources>
